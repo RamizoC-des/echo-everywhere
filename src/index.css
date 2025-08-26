@@ -156,7 +156,7 @@
   }
   
   .btn-community {
-    @apply bg-gradient-primary text-primary-foreground px-6 py-3 rounded-lg shadow-soft hover:shadow-medium transition-smooth font-medium;
+    @apply bg-gradient-primary text-primary-foreground px-6 py-3 rounded-lg shadow-soft hover:shadow-medium transition-all duration-300 ease-out font-medium;
   }
   
   .text-community-warm {
